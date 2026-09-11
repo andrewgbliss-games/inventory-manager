@@ -1,0 +1,317 @@
+[
+  {
+    "id": "currency",
+    "category": "currency",
+    "variants": ["gold", "silver", "bronze"]
+  },
+  {
+    "id": "health",
+    "category": "consumable.potion",
+    "variants": ["low", "medium", "high"]
+  },
+  {
+    "id": "mana",
+    "category": "consumable.potion",
+    "variants": ["low", "medium", "high"]
+  },
+  {
+    "id": "fruit",
+    "category": "consumable.food",
+    "variants": [
+      "strawberry",
+      "apple",
+      "banana",
+      "orange",
+      "pineapple",
+      "mango",
+      "peach",
+      "pear",
+      "plum",
+      "cherry",
+      "raspberry",
+      "blackberry",
+      "blueberry",
+      "grape",
+      "watermelon",
+      "melon",
+      "lemon",
+      "kiwi",
+      "grapefruit"
+    ]
+  },
+  {
+    "id": "meat",
+    "category": "consumable.food",
+    "variants": [
+      "beef",
+      "chicken",
+      "pork",
+      "lamb",
+      "turkey",
+      "duck",
+      "goose",
+      "rabbit",
+      "venison",
+      "bacon",
+      "ham",
+      "sausage",
+      "salami",
+      "jerky",
+      "pate"
+    ]
+  },
+  {
+    "id": "vegetable",
+    "category": "consumable.food",
+    "variants": [
+      "salad",
+      "carrot",
+      "lettuce",
+      "tomato",
+      "onion",
+      "garlic",
+      "potato",
+      "cucumber",
+      "broccoli",
+      "cauliflower",
+      "spinach",
+      "asparagus",
+      "green-beans",
+      "corn",
+      "peas",
+      "avocado",
+      "pumpkin",
+      "zucchini",
+      "squash",
+      "eggplant",
+      "bell pepper",
+      "pepper",
+      "cabbage",
+      "radish",
+      "leek",
+      "mushroom"
+    ]
+  },
+  {
+    "id": "bread",
+    "category": "consumable.food",
+    "variants": [
+      "bread",
+      "toast",
+      "bagel",
+      "muffin",
+      "croissant",
+      "scone",
+      "pita",
+      "wrap",
+      "burrito",
+      "tortilla",
+      "flatbread",
+      "naan",
+      "roti",
+      "chapati"
+    ]
+  },
+  {
+    "id": "cheese",
+    "category": "consumable.food",
+    "variants": [
+      "cheese",
+      "cheddar",
+      "swiss",
+      "mozzarella",
+      "parmesan",
+      "provolone",
+      "feta",
+      "goat",
+      "blue",
+      "brie",
+      "camembert",
+      "gouda"
+    ]
+  },
+  {
+    "id": "fish",
+    "category": "consumable.food",
+    "variants": [
+      "salmon",
+      "tuna",
+      "cod",
+      "trout",
+      "bass",
+      "pike",
+      "perch",
+      "catfish"
+    ]
+  },
+  {
+    "id": "pizza",
+    "category": "consumable.food",
+    "variants": [
+      "margherita",
+      "pepperoni",
+      "cheese",
+      "veggie",
+      "meat-lovers",
+      "hawaiian",
+      "bbq-chicken",
+      "buffalo-chicken",
+      "meatball",
+      "meatball-sub"
+    ]
+  },
+  {
+    "id": "steak",
+    "category": "consumable.food",
+    "variants": ["rare", "medium rare", "medium", "medium well", "well done"]
+  },
+  {
+    "id": "soup",
+    "category": "consumable.food",
+    "variants": [
+      "chicken",
+      "beef",
+      "vegetable",
+      "tomato",
+      "onion",
+      "garlic",
+      "potato",
+      "cucumber",
+      "broccoli",
+      "cauliflower",
+      "spinach",
+      "asparagus",
+      "green-beans",
+      "corn",
+      "peas"
+    ]
+  },
+  {
+    "id": "condiments",
+    "category": "consumable.food",
+    "variants": ["mayo", "mustard", "ketchup", "hummus", "guacamole", "salsa"]
+  },
+  {
+    "id": "sandwich",
+    "category": "consumable.food",
+    "variants": [
+      "reuben",
+      "blt",
+      "club",
+      "grilled-cheese",
+      "pb&j",
+      "turkey",
+      "egg",
+      "avocado"
+    ]
+  },
+  {
+    "id": "sushi",
+    "category": "consumable.food",
+    "variants": [
+      "sushi",
+      "roll",
+      "nigiri",
+      "sashimi",
+      "temaki",
+      "uramaki",
+      "hoso-sushi"
+    ]
+  },
+  {
+    "id": "taco",
+    "category": "consumable.food",
+    "variants": ["hard", "soft", "soft-shell", "hard-shell"]
+  },
+  {
+    "id": "pasta",
+    "category": "consumable.food",
+    "variants": [
+      "spaghetti",
+      "macaroni",
+      "lasagna",
+      "ravioli",
+      "tortellini",
+      "cavatappi",
+      "farfalle",
+      "fettuccine",
+      "linguine",
+      "gnocchi"
+    ]
+  },
+  {
+    "id": "gun",
+    "category": "equipable.weapon.ranged",
+    "variants": ["pistol", "rifle", "shotgun"]
+  },
+  {
+    "id": "sword",
+    "category": "equipable.weapon.melee",
+    "variants": ["short", "long", "two-handed"]
+  },
+  {
+    "id": "axe",
+    "category": "equipable.weapon.melee",
+    "variants": ["axe", "battle-axe", "greataxe"]
+  },
+  {
+    "id": "mace",
+    "category": "equipable.weapon.melee",
+    "variants": ["mace", "warhammer", "flail"]
+  },
+  {
+    "id": "bow",
+    "category": "equipable.weapon.ranged",
+    "variants": ["short", "long", "two-handed"]
+  },
+  {
+    "id": "wand",
+    "category": "equipable.weapon.ranged",
+    "variants": ["wand", "staff", "quarterstaff"]
+  },
+  {
+    "id": "shield",
+    "category": "equipable.armor",
+    "variants": ["small", "medium", "large"]
+  },
+  {
+    "id": "helmet",
+    "category": "equipable.armor",
+    "variants": ["helmet", "cap", "hood"]
+  },
+  {
+    "id": "amulet",
+    "category": "equipable.armor",
+    "variants": ["amulet", "necklace", "choker"]
+  },
+  {
+    "id": "chestplate",
+    "category": "equipable.armor",
+    "variants": ["chestplate", "tunic", "shirt"]
+  },
+  {
+    "id": "belt",
+    "category": "equipable.armor",
+    "variants": ["belt", "girdle", "sash"]
+  },
+  {
+    "id": "leggings",
+    "category": "equipable.armor",
+    "variants": ["pants", "trousers", "leggings"]
+  },
+  {
+    "id": "boots",
+    "category": "equipable.armor",
+    "variants": ["boots", "shoes", "sandals"]
+  },
+  {
+    "id": "gloves",
+    "category": "equipable.armor",
+    "variants": ["gloves", "mittens", "gauntlets"]
+  },
+  {
+    "id": "ring",
+    "category": "equipable.armor",
+    "variants": []
+  }
+]
